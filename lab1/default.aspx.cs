@@ -11,14 +11,7 @@ namespace lab1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            lblMessage.Text = string.Empty;
-            Label1.Text = string.Empty;
-            Label2.Text = string.Empty;
-            Label3.Text = string.Empty;
-            Label4.Text = string.Empty;
-            Label5.Text = string.Empty;
-            Label6.Text = string.Empty;
-            Label7.Text = string.Empty;
+            
         }
 
         protected void btnSubmit_Click(object sender, EventArgs e)
